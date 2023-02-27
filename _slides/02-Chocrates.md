@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello World!
 
-![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
+![mona-the-rivetertocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
 {: .center}
+
+Hello World!
