@@ -7,3 +7,5 @@ Hello World!
 
 ![mona-the-rivetertocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
 {: .center}
+
+Hello World!
