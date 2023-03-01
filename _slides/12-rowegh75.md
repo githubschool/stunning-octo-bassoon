@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome Hosers!!!"
 ---
 
-Caption here
+Dont get Sprayed
 
-![riddlocat](https://octodex.github.com/images/riddlocat.png)
+![riddlocat](https://octodex.github.com/images/Sentrytocat_octodex.jpg)
 {: .center}
